@@ -40,7 +40,7 @@ class AppNav extends React.Component {
       <View style={{ height: rhythm(1.5) }}>
         <View styles={[styles.navWrapper]}>
           <View>
-            <AppNavLink title="Flummox" href="/" />
+            <AppNavLink title="Time to Surf" href="/" />
           </View>
           <View justifyContent="flex-end" flexGrow>
             <AppNavLink title="Guides" href="/flummox/docs/guides">

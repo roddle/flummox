@@ -28,3 +28,7 @@ node_modules
 
 /lib
 /public
+
+# mods for my surf school
+src/shared/components/AppNav.js
+docs

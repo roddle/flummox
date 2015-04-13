@@ -1,18 +1,21 @@
-Flummox
-=======
+theHomie.com
+============
 
-[![build status](https://img.shields.io/travis/acdlite/flummox.svg?style=flat-square)](https://travis-ci.org/acdlite/flummox)
-[![Test Coverage](https://img.shields.io/codeclimate/coverage/github/acdlite/flummox.svg?style=flat-square)](https://codeclimate.com/github/acdlite/flummox)
-[![npm downloads](https://img.shields.io/npm/dm/flummox.svg?style=flat-square)](https://www.npmjs.com/package/flummox)
-[![npm version](https://img.shields.io/npm/v/flummox.svg?style=flat-square)](https://www.npmjs.com/package/flummox)
+### Top quality surf trips with a veteran surfer(./surfer), lifeguard(./lifeguard) and teacher(./surfinstructor).
 
-Idiomatic, modular, testable, isomorphic Flux. No singletons required.
+#### make an extra page about my time with sc surf school
+i have the chance to validate the efforts and skills of my compadres, and I have a chance to share with the world the warning signs that i saw in dylan. sharing these insights may help others id pedos in their lives. make a statement that we need to be able to catch these people and their problems at an earlier stage, in hopes that we can prevent youngins from being harmed and from a person throwing their life away.
+
+I have a lot of valuable things to share about surfing. I invite you to read what I am sharing here and to get in touch. I'm happy to help anyone in any way I can, and I am also making myself available for hire on surf trips. 
+
+One of the best ways you can learn surfing is to dedicate weeks or months to having it as a constant part of your life. For now, I have the chance to leave my home for weeks or months at a time, without losing the job that I have here that keeps me supported in my day to day life. Therefore I am making this site a place for me to share my surfing insights and to convince you to hire me to go surfing with you. 
+
 
 ```
-$ npm install --save flummox
+Let's go on a surf trip
 ```
 
-Join the **#flummox** channel of the [Reactiflux](http://reactiflux.com/) Slack community.
+**Surfing** has been my thing ever since I knew it existed. At 18, I finally lived by the coast and to help myself to understand and find the best surf I could, I created this [Surf Check](http://thehomie.com/surfpage) page.
 
 [![Join the chat at https://gitter.im/acdlite/flummox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/acdlite/flummox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
